@@ -26,7 +26,7 @@ di `main`, sehingga data yang salah hanya diabaikan dan program tetap
 lanjut. data yang diabaikan tidak ikut dihitung dalam IP.
 
 ## Hasil dart analyze
-![dart analyze](screenshots/analyze.png)
+![dart analyze](screenshots/analyzee.png)
 
 
 ## Pernyataan penggunaan AI
@@ -37,4 +37,4 @@ bobot, hitung ip, predikat, dan cetak khs) sampai contoh pemakaian
 fold, where, dan sort. setelah itu saya menjalankan programnya
 sendiri dengan data yang benar dan data yang salah, seperti sks "tiga",
 lalu mempelajari cara kerja tiap fungsinya. penjelasan di atas saya
-sesuaikan dengan kode yang saya jalankan.
+sesuaikan dengan kode yang saya jalankann.
